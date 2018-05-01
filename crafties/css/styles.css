@@ -1,0 +1,47 @@
+nav{
+	background-color: #fff;
+	box-shadow: none;
+}
+
+nav ul a{
+	color: #000;
+	margin-top: 25px;
+}
+
+
+/*::::::::::::Estilos de párrafo :::::::::::::*/
+
+h2{
+	font-family: Montserrat;
+	font-size: 40px;
+}
+
+h3{
+	font-family: sacramento;
+	color: #000;
+}
+
+
+h3.footer{
+	text-align: center;
+
+}
+
+hr{
+	margin-top: 35px;
+}
+
+
+/* :::::::::::::FORM:::::::::::::::::::*/
+
+
+
+/* :::::::::::::::Footer :::::::::::::::::::::*/
+
+.page-footer{
+	background-color: #fff;
+}
+
+.page-footer .footer-copyright{
+	background-color: #B5B4B4;
+}
